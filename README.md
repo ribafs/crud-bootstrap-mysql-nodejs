@@ -2,8 +2,11 @@
 
 
 Run this project by this command : 
+
 1. `npm install --save express mysql body-parser hbs`
-2. `node index`
+2. `create database, configure in index.js and import db.sql`
+3. `node index`
+4. `localhost:8000`
 
 #### Screenshot
 
